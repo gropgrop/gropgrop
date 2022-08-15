@@ -1,4 +1,8 @@
-### Hi there 👋
+Honestly u can use notepad and still write good code pls stop fighting over IDEs
+
+## Currently Working on:
+- "unconventional" high-precision, high-speed Data Acquisition
+- Dotfile Manager
 
 <!--
 **gropgrop/gropgrop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
