@@ -1,2 +1,2 @@
 >>> No longer on github.
->>>  git.unexceptional.com/envelope
+* git.unexceptional.net/envelope *
